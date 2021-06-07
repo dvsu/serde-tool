@@ -1,0 +1,1 @@
+[{"name": "alpha", "username": "alpha1", "id": 123, "location": {"district": "AAA", "subdistrict": "aaa"}}, {"name": "beta", "username": "beta2", "id": 456, "location": {"district": "BBB", "subdistrict": "bbb"}}, {"name": "gamma", "username": "gamma3", "id": 789, "location": {"district": "CCC", "subdistrict": "ccc"}}]
